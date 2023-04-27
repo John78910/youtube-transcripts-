@@ -1,0 +1,1327 @@
+ntroduction
+welcome to the michael shermer show i'm your host michael shermer my guest today is bernardo costrup he is
+the executive director of essentia foundation his work has been leading the
+modern renaissance of metaphysical idealism the notion that reality is essentially
+mental is a phd in philosophy in the subjects of ontology and philosophy of mind
+and another phd in computer engineering reconfiguring computing and artificial intelligence as a
+scientist bernardo has worked for the european organization for nuclear research cern and the philips research
+laboratories where the kasmir effect of quantum field theory was discovered
+formulated in detail in many academic papers and books his ideas have been featured on
+scientific american the institute of arts and ideas the blog of the american philosophical
+association and big think among others bernardo's most recent work is the idea of the world
+a multi-disciplinary argument for the mental nature of reality he's also the author of why materialism
+is baloney how true skeptics know there is no death and fathom life and fathom answers to life the
+universe and everything for more information freely downloadable papers and videos etc please visit
+bernardocastrup.com okay well it sounds like a real jargony kind of
+conversation we're gonna have but it wasn't it was uh um it was quite clear and lucid that you didn't you don't have to
+know anything about any of these philosophical topics to understand um what he's talking about
+and since i'm not a philosopher it's easy to keep the conversation uh practical so we deal with all the
+subjects i just listed and lots of very specific things like
+altered states of consciousness and uh hallucinogenic trips ayahuasca and lsd and so forth
+and the subject of near-death experiences and out-of-body experiences and anomalous neurological experiences
+we talked about even alexander who had a trip that he went to heaven and uh and oliver sax's many works
+in this area of anomalous neurological experiences that people have that they experience as very real
+um and so we talk about to what extent these open the doors of perception to some other reality
+or not uh and then we wrap up talking about free will and where agency comes from and then
+suffering and the meaning and purpose of life at the very end so it was quite the
+conversation much much better than i thought it would be and and uh and super interesting so i
+hope you enjoy the conversation bernardo how are you where are you
+Where are you
+i am in the south of the netherlands uh very close to the border with germany and belgium very close to
+jennifer's place uh close to cologne yeah that's right my wife's from cologne yes well we we love that area
+we haven't been there since the shutdown and it was probably a year before that that we had visited so now it's been
+over two years so that's pretty crazy so um well uh as you know i usually have guests with
+with a new book out you have um you have several books the the latest one on schopenhauer
+i didn't get a chance to read i did read through your uh cheekily named why materialism is
+baloney how true skeptics know there is no death and fathom answers to life the universe and
+everything okay with that bold title uh why don't you give us a little bit of background
+Background
+who are you where you from where'd you go to school and i i see you had two phds very impressive
+so give us a little bit of background how you got into this whole field of study
+oh originally by education i am a computer scientist computer engineer
+very early in my professional life my first job actually was at cern in switzerland the big
+accelerator and from then on i worked a lot in ai
+and of course you know when you're designing something that they suppose is supposed to supposed to be intelligent you ask
+yourself the question could it be conscious too and if yes what what would i have to do to make it
+conscious in other words to not only process information but to have experience accompany that processing of information
+uh and that sort of uh led me back to philosophy which has been a passion of mine now lifelong since i was a kid
+thinking about you know the nature of consciousness the nature of reality eventually i got a second phd my first
+phd is from the eindhoven technology university very close to where i am my second one
+is from radboud university both in the netherlands top schools in the netherlands worldwide
+not that tough but for us here top schools um and since then i have been writing a
+whole lot of books uh about philosophy especially and also the intersection with ai
+and computer science uh the one you mentioned uh is unsurprisingly my best seller
+perhaps because of that cheeky title i have other books that are very
+academic in orientation they actually sell surprisingly well the idea of the world which is a collection of
+peer-reviewed academic papers sells surprisingly well with uh well
+above my expectations because it was not meant for the general readership and
+and still it seems to be resonating there so yeah that's where i come from
+right so the connection with ai and and uh philosophy of mine is interesting i'll intersect it with it
+this way i once met um david ferrucci the ibm uh computer scientist who
+Watson
+led the team that designed watson the computer that won jeopardy you know we have this
+big game show here called jeopardy and uh he watson the computer played against the two greatest champions of
+all time including ken jennings who is the the all-time earner and uh you know and it just cleaned the
+computer just cleaning their clocks anyway so what i asked him was is does jeopardy does watson know that he
+won jeopardy i mean was he like excited oh my god i beat ken jennings no one's ever beat ken jennings that's incredible
+and of course the answer is well no well actually he said yes and i said what and he said well i
+programmed him to to you know say yay or whatever but of course we don't know that
+you know what in inside the computer that the computer is experiencing the joy of victory or you know the agony
+of defeat or or whatever it's not experiencing anything it doesn't even know it's playing a game
+it doesn't even know it's on television it doesn't know anything right it's just an algorithm grinding through wikipedia
+pages to try to answer trivial questions yes and even if you know what some
+computer scientists would say is that well but if you give the computer uh internal representations of itself
+including of its own internal states in other words to try to build some form of metacognition in the algorithms of the
+machine they would claim well then you would know that you won but of course this
+this begs the question because no amount of data processing is necessarily
+accompanied by experience unless you already presuppose some form of pancythism
+which is what most people who who entertain this idea of artificial consciousness and silicon
+seem to be assuming but our readiness to believe that we can
+create private conscious in their life in silicon reflects an amazing
+capacity to ignore our sense of plausibility when it comes to consciousness
+for for instance if i could run a molecularly accurate simulation of
+kidney function on my computer but everybody would love if i would then claim my computer can
+urinate on my desk just because i have a completely accurate down to the atomic level simulation of kidney function but when
+it comes to consciousness we don't laugh we think it's plausible but it's the same categorical error it's the error of
+completely eliminating the substrate and believing that abstractions alone
+are the whole reality so if you programmed into watson
+that if you hit this particular score and the other two players are lower you win and then you program it into it
+it cheers like yeah it makes a little voice sound okay that's not going to do it and then you have a program that's aware
+that it's cheering and you would say well that's not consciousness and then we have a program
+that's aware of the program that's aware of the cheering and winning and so on and and i presume you you
+could just take this out infinitely and you'd still never at some point reach a number in which
+you'd say there that's where conscious awareness begins is that your point correct and and the
+reason the reason for this is that we have one instance in nature where we know with a very high degree of
+confidence that there is conscious in their life private conscious in their life and that is for biological organisms
+that metabolize biological organisms can be functionally and structurally completely different
+but they have this common element which is metabolism which which is what characterizes biology so
+metabolism is what nature is telling us is consistently correlated with conscious
+in their life if you go to silicon it's a completely different substrate so the question is not can we be sure that
+the computer is not conscious in and of itself no we cannot be sure the question is do we have any reason to
+believe that it is and then i would say no we don't because what nature is showing us is that the
+instances of conscious inner life that we know are correlated with metabolism so programming
+information processing in a computer and believing that it will be conscious is exactly a akin
+to programming kidney function in a computer and believing that it can urinate on your desk the simulation is not the thing
+simulated and we never make this mistake unless it comes to consciousness it's really peculiar well it's because it's
+something we do i guess and we have an intuitive sense that there's something floating around
+up there it feels like i have thoughts in my head i don't feel any neurons firing i feel
+no neural activity at all i just have thoughts and that feels like they could just float off my brain when
+i die and i go off into you know heaven or whatever that's i think that's kind of an intuitive basis for belief in
+in the continuation of the self after death whatever version you want of that because it's not
+possible to conceive of what it's like to not be conscious because to conceive of anything you have
+to be conscious so there's kind of a a contradictory state of conditions
+there and and yet if we define it by the way you just did as you know
+the association with metabolism then single cell organisms they metabolize you know they have
+chemical processes they they move along chemical gradients toward food
+toward light away from toxic chemicals or whatever so would you say then that's like a
+really super basic level of consciousness and then you scale up from there based on the amount of metabolism or
+complexity of the number of neurons or whatever
+i think single-celled organisms do have private consciousness in their life because i think life is what a certain dissociative
+process in consciousness looks like that's what i think life is we can get into the details of that but if you look at the
+paramecium under a microscope it runs from from danger it goes after
+food i mean this thing doesn't have a nervous system it's a single cell it's basically just
+gelatin inside a lipid membrane so yes i think private consciousness in
+your life is entirely correlated with life and metabolism
+life or an individual organism is what a dissociative process in a
+field of subjectivity looks like when it's observed that's why brain activity correlates with inner
+experience brain activity is what inner experience looks like from across a dissociative boundary but normally when i talk about
+consciousness i'm not talking about an instance like a particular organism with private conscious in your life
+usually i talk about consciousness as a ontological category which the greek the greeks called lucia it's a type of
+existence so if as an idealist if i say the whole universe is in consciousness
+i don't mean by it that it's in a specific instance of consciousness like my consciousness
+or your consciousness or even the combined consciousnesses of all living beings what i mean is that
+the type of existence existent that underlies the universe is the type we call consciousness it's
+like saying that the universe is wood and instead of wooden tables if you know what i mean
+Defining Consciousness
+so then how are you defining consciousness i mean this is usually described as you know what it's like to be something
+so i assume my dog is conscious because he knows what it feels like to be a dog even though i i can't know what it's
+like to be him but i have a sense of what it's like to be him and but but uh but but i can kind of reflect
+on my own consciousness i don't think my dog can reflect on his consciousness he's just conscious and he responds to
+heat and cold and the bouncing ball or food the sound of food going into his dish whatever and but he i don't think he
+thinks about that or thinks about thinking about food or whatever he just responds in a more basic way so i think
+our intuition is that consciousness is some higher order state and therefore the paramecium or the dog
+doesn't really have it like we have it it feels like there's a a leap a gap
+between us and pretty much all other organisms except maybe dolphins and the you know the citations let's say in
+the great apes something like that you're precisely right i mean this
+subtlety of understanding is what misses in most people even surprisingly scholars and specialists
+you're completely right when i say consciousness i'm i am alluding to phenomenal consciousness so for someone
+to be phenomenally conscious there just needs to be something it is like to be this someone
+that doesn't require any higher level mental function like self-reflection metacognition explicit
+introspection things that are called meta consciousness they were called meta consciousness by jonathan schooler in
+2002 i think it's a very good name it makes things simpler so when the idealist says the
+universe is in consciousness what the idealist means is that there is a transpersonal
+field of phenomenal consciousness of pure subjectivity and the the mental processes unfolding
+in that field present themselves to us as the physical world that doesn't entail or
+imply that this field is meta conscious that it has a plan that it's deliberate
+that it's doing things on purpose if you if you want to describe it as close as possible to what
+an idealist would mean is to say it is instinctive and entirely spontaneous
+it's it's an instance of naturalism i'm a naturalist and a reductionist i know that not everybody who may be right is a
+naturalist and a reductionist i happen to be one so my naturalist view of this
+field of subjectivity is one that has no higher level mental functions at all it reacts in a
+predictable way because of what it is and those patterns of behavior are what we call the laws of physics which seem
+to be very stable very reliable they are not changing from day to day which suggests that
+if if idealism is correct then this universal mind if you want to call it is a purely instinctive spontaneous mind
+and higher level mental functions evolve through evolution by natural selection in the context of a competitive ecosystem
+Scaling up
+okay back to my analogy with watson and you're stating that no matter how many programs
+and programs of programs and meta meta meta programs i built in there there's not there's no way to know that
+it's ever going to be conscious and it probably won't be in the way you've just described it and yet i do picture in the other
+analogy i just made scaling up from parameciums to dogs to chimps cetaceans dolphins and so on up to us
+there's a field a sense that we have that if you pack on enough cortex
+layers and layers and layers of cortex or neural networks that are aware of the neural networks that are aware of the maps
+that are aware of the boundary between self and non-self and so on at some point like in the sydney harris
+cartoon that you've used that i've used you know and then a miracle happens you know you have the two
+mathematicians at the chalkboard with equations and then the middle step there and then a miracle happens it's it feels like like something like
+magic happens if you just get enough cortical activity going but that's i'm
+assuming that's an incorrect way to think about it i think it is incorrect that the best
+case that has ever been made along these lines uh was made by douglas hofstadter
+in godot that enormous volume of his from the 70s i think
+um which is a fantastic book but if you if if you read it carefully if it's at all
+possible to read it to the end but if it is and you read it carefully you see that what's happening there is that the
+crucial point the crucial transition is just being hidden and buried
+underneath layer and layer and layering layers of complexity and and sometimes that obfuscation may give
+us the feeling that we are hitting on something important but we aren't i mean we know since the enlightenment
+that correct reasoning needs to be explicit it needs to be all the steps need to be
+explicit and and reasonable um and and there are many instances today in which we sort of try
+to hide ignorance of all things try to hide behind that which we do not know or
+cannot understand because it's so complex another instance of it is the so-called heart problem of consciousness and the
+notion that if organisms if nervous systems are complex enough at some point magic happens
+and something that was purely quantitative before like a set of microscopic switches opening and closing
+suddenly becomes qualitative and has inner experience there is no reason to think that this is
+an appeal to magic and you're just hiding that being underneath layers and layers and layers of complexity
+you know as a computer scientist i know full well that anything any computer in the world or
+which has ever existed does can be done with pipes
+pressure valves and water it's just that you would need something the size of a
+planet to do that but at the end of the day it's just current electric current but you can think of it
+as water tension which is just just different pressures and pressure valves it can open and
+close depending on the pressures now if you is it coherent to say that if
+you add enough pipes water and pressure valves at some point something that consists only of pipes
+water and pressure valve will become conscious instead of just being a mechanical contraption
+no you have no reason to think that and people who think we do are appealing at some level to some form
+of magic it's an argument by ignorance ultimately yeah so um
+Consciousness arises
+where that then extra step comes from you're arguing can't be a purely
+mechanical physical system because no matter how many layers of complexity you you pile on
+neural networks or mechanical or electrical systems you're never going to get to the and
+then the leap happens the miracle happens and then consciousness arises yes
+so then therefore your posture there's something else there's something else that's in there in my skull besides synaptic
+connections and proteins swapping across you know neural neurotransmitter substances swapping across
+gaps there's something else in there is that what you mean no no but i know why you're saying this
+and i try to help you uh follow along with what i think which doesn't mean that i am right i just want
+to be understood not necessarily agreed with i don't think there is anything else in your head i think your head is just
+you know elementary subatomic particles forming atoms molecules and their respective feuds that's all there is
+but i think we think about it in the wrong way um you know when you face a so-called
+problem like the heart problem of consciousness it's not a problem at all to be solved it's just an internal
+contradiction in a certain way of thinking so the the right approach is once you face that you backtrack
+enough steps that you avoid that problem by implication and you try another direction
+and what i would submit to you is that what is inside your head or your whole
+body it is not the cause of consciousness it is what a certain state of
+consciousness looks like from a certain perspective and that's why there is this tight
+correlation between how you feel within within and your brain activity or even your facial expressions i mean if you if
+you look in the mirror and you see tears running down your face that's what your inner sadness looks like
+when observed from a certain perspective so what i would say is that at its bottom
+very naturalistic level there is only a spatially unbound field of subjectivity
+which has no higher level mental functions it just means phenomenality and that sometimes that feud can
+dissociate and form what's technically called alters and i would submit to you that
+our living body metabolizing living body is what those dissociative processes
+look like when observed from a cross a dissociative boundary so the idea is we
+stop thinking about the brain as the cause and start thinking about the brain as the appearance
+as the image as what the process looks like and not as the cause of the process you would still have all the
+correlations there you would still be a a reductionist naturalist but you
+start from a very fundamentally different assumption about the essence of reality so you avoid the
+heart problem altogether yeah interesting yeah because i think of the hard problem as a conceptual problem but not a
+scientific problem namely it's a problem with our concepts that is to say we have this sense that there's a
+homunculus inside my head that can then go over into your head to see if the red looks like
+on your screen what it looks like on my screen or i can go into the bat and see what it feels like to be a bat and
+what's on his screen of course this is all ridiculous can't do any of that and even if i bolted on uh you know some
+kind of sensory apparatus system that was based on sound so i used echolocation to walk around the house
+blindfolded let's say then i'd have a sense yeah i kind of feel like this is what a bad experience is um
+so but your point is that this this is kind of game playing with words conceptually scientifically you can't do
+this and if you did if you did it all the way you'd just be a bat or a dolphin you wouldn't be a human
+asking what it's like to be a bat or a dolphin you would just change identities
+yeah i think you're correct in everything you said the the heart problem doesn't necessarily require there to be a homunculus it's it's even
+a more basic problem the heart problem just says that it's a recognition it says that there is
+nothing about physical parameters in terms of which we could deduce at
+least in principle the qualities of experience so even if there are no higher level mental
+functions no homunculus you would still have the hard problem because you cannot deduce quality from
+quantity that bridges is a is conceptually arbitrary and and for me that is a very very big
+hint that somewhere we took the wrong turn in our conceptual reasoning so i think the
+effort is not to solve a fundamentally insoluble problem that's just reduce your absurdum of a certain line
+of thinking you don't insist on it thinking that new technologies will help you so what is a conceptual problem
+you backtrack until the last safe step and then you try different directions
+and then you see things add up if you do that and i think they do yeah i had philip gough on the podcast last year and he pinpoints that turn at
+Reductionism
+galileo in history of science that turned around galileo's time of of you know this kind of reductionistic
+materialistic and uh i forget the details something like you know how you would analyze colors uh you know
+are the colors actually out there somewhere or but you know they're up here in our heads and so on uh but but for him anyway i
+don't want to articulate his argument because it's been a while since i saw that but um that you know that turn in the
+history of science to in that direction has led us to this hard problem of consciousness that really is
+kind of misconfigured we're never going to solve it it's not like one more neuroscience experiment or
+theory is going to have the answer there is no answer because it's the wrong question it's the wrong way to conceive of it
+i agree with the conclusion i i would take exception with beating reductionism i think 400 years
+of science have shown us that things can be reduced in other words they can be explained in terms of other things
+i don't think there is any empirical or or analytic reason to reject
+reductionism although there are people in academia who do reject it and and i think god's way of trying to
+solve the problem is physically incoherent constitutive pensacism i think is physically incoherent because
+it makes this naive assumption that subatomic particles or elementary subatomic particles
+are actually little bodies delineated in space but that's just a metaphor we know that
+that's not what subatomic particles are and if you really understand what subatomic particles are then then
+constitutive psychism becomes incoherent it doesn't work
+Consciousness and Mind
+then the other thing i was going to bring up on this since we're starting to get into the
+kind of jargon how do you make the distinction between consciousness and mind we use these words brain and mind
+interchangeably i tend to think of the mind as just it's just a word we use to describe
+what the brain does the problem is is if you use the the word mind if you reify it into
+something that exists in it then we think of it as floating around up there between the neurons or whatever which you say
+is not the case or when we die we think of well the pattern of information my connectome
+my mind floats off the brain out of my skull somehow through the quantum field or something ends up in some quantum state or heaven
+or whatever the version that you have of that is i i assume you would reject that idea but
+how do you think of mind and consciousness
+look i think words they are okay so long as we all understand what we mean by them in in the in the history of
+western philosophy mind and consciousness have historically been used interchangeably
+mind comes from the from the greek psyche which is also the same word
+that gave birth to the notions of spirit and soul so mind in a sense is what we today at
+least historically it would be better described as what we today call phenomenal consciousness
+mind as the product of the brain is more of a positivistic take on the word on the word more of an
+early 20th century thing so i personally tend to use mind and phenomenal consciousness
+interchangeably um under the assumption that people know what i mean by that i would not describe
+the function of the brain as mind i would just call it brain activity patterns of brain metabolism i think
+now a descriptive label is sufficient there for that
+The Strong Consciousness Principle
+so here's how i conceived of it since you had an endorsement by deepak chopra in fact you and i met
+at deepak's sages and scientists conference a few years ago and and since then deepak and i have
+become pretty good friends even though we disagree fundamentally in our world views i describe myself as a materialist
+monist and he describes himself as a spiritualist monist or a consciousness monist so here's his quote from you are the
+universe uh his book with uh minos cafatos consciousness is fundamental and without
+cause it is the ground state of existence as conscious beings humans cannot experience
+measure or conceive of a reality devoid of consciousness and then i say this is from my book
+heavens on earth well yes that's true by definition you have to be conscious to experience anything so when deepak proposes that
+consciousness in the universe are equivalent in the sense that it is quote from deepak
+an undeniable fact that any universe is only knowable through the human mind's ability to
+perceive reality close quote he is stating the obvious i call this the weak consciousness principle you have to be
+conscious to be experienced consciousness but deepak goes further than this when he says quote if all human knowledge is
+rooted in consciousness perhaps we are viewing not the real universe based on limitations of the
+brain and that the apparent evolution of the cosmos since the big bang has been totally dependent upon human
+consciousness close quote from deepak and i write that's reversing the causal arrow from
+perception to determinism from being consciously aware of the universe and trying to understand it to our own
+consciousness bringing about the universe then i call this the strong consciousness principle
+uh how does your position on this deal differ from what i just described with deepak
+and there is a lot to unpack yeah you know what i've just read unpacking we have to make it we have
+yeah we have to make a differentiation between an epistemic claim about the primacy of consciousness
+and an ontake plane the epistemic claim is what you described i am sort of cooped up within
+consciousness so as far as my knowledge of the world is concerned it of course depends on consciousness and it wouldn't
+exist outside consciousness the ontic claim is regardless of what you know the world
+is in essence essence in the sense of the greek usea uh that which has standalone existence
+the the substance of all that is perceived that is consciousness too as a type of
+existence that's the anti-claim i agree with deepak's ontake conclusion
+and i agree with your statement that the epistemic approach is not enough to make a case
+for the antic conclusion in other words it's not enough to say that i can only know what is in my consciousness
+and derive from that the anticlaim that the universe is only in consciousness now you have to create your case to
+establish a case using more than that you can establish your case empirically you can establish a case based on
+reasoning conceptual reasoning and you can establish your case based on parsimony you can say
+consciousness stuff is the only only given of nature it's where we start theorizing
+we start from consciousness so if i can't make sense of all empirical observations
+based on consciousness stuff alone then i don't need matter defined as
+something outside an independent of consciousness because of parsimony considerations in
+other words for the same reason that i reject the flying spaghetti monster i would reject matter conceptually
+defined under physicalism if i can make do with nature's only given which is the antic
+category we call consciousness so i agree with deepak's conclusion but i think we need more than just the epistemic
+argument to be able to derive that conclusion with any confidence we need parsimony we
+need empiricism and we need proper analytic reasoning
+The Constitution of Knowledge
+which exists outside of any single skull no one brain can actually put all this
+together so we need the social process of science to arrive at something close to objective
+knowledge what jonathan rausch calls the constitution of knowledge um and you know i very much endorse that
+because none of us can get it right all the time so we need uh you know to push back and test each
+other's hypotheses and so on um but so now let me continue on with with what i wrote why i uh
+come down the position i have as far as i can tell the hypothesis that the brain creates consciousness
+has vastly more evidence for it than the hypothesis that consciousness creates brain
+damage to the fusiform gyrus of the temporal lobe for example causes face blindness and stimulation of
+the same area causes people to see faces spontaneously stroke cause damage to the visual cortex
+region called v1 leads to loss of conscious visual perception
+changes in conscious experience can be directly measured by fmri eeg and single neuron recordings
+neuroscientists can predict human choices from brain scan activity before the subject is even consciously aware of
+the decisions made using brain scans alone neuroscientists have even been able to reconstruct on a
+computer screen what someone is seeing in other words brain activity equals conscious experience
+thousands of lab experiments in conjunction with naturally occurring experiments in the form of brain tumors strokes accidents and injuries
+confirm the hypothesis that neural chemical processes produce subjective experiences
+neural activity equals qualia or the qualitative state which is this hard problem of
+consciousness the fact that neuroscientists are not in agreement over which physicalist theory best accounts for mind
+does not mean that the hypothesis that consciousness creates matter holds equal standing let's say you
+i think i understand where you're coming from but i think you're making a very fundamental mistake and that
+mistake is what philosophers call to beg the question let me try to to make it more visible when you say
+if i shoot someone in the head then that physical action will have a cause in consciousness
+something will happen in the head of in the conscious in their life of somebody else or if i drink alcohol
+a material physical substance something happens in how i experience myself in my conscious in your life
+therefore there is not only a correlation but you can derive an arrow of causation from the physical
+to the mental that that's your argument the error here is that you are assuming
+some form of dualism you are assuming a distinction between the physical and the mental while the fundamental
+claim of the idealist is that there is no such distinction so for the idealist that physical
+glass of alcohol that you physically drink and put in your stomach that too
+is what a mental process a transpersonal one looks like when observed across a
+dissociative at a dissociative boundary idealism is a monistic ontology
+it's not a dualistic one so all physicality is the appearance of a mental process so
+if a surgeon is holding a scalpel and starts cutting you into your brain while you are awake and you start having visions and feeling
+things only for the ideal is that entirely coherent because that scalpel is what a
+transpersonal mental process outside the boundaries of my dissociation
+look like and that the mental process influences another is trivial your thoughts inflammatory influence your
+emotions every day and the other way around different qualitative processes influencing one another so it's not
+surprising that a transpersonal mental process that looks like a scalpel in the hand of
+an of a neurosurgeon influences the personal mental processes
+in my consciousness now you may disagree with this but to to properly be able to judge idealism
+you have to be able to evaluate based on its own set of premises and
+and how it works otherwise you're creating straw men of it and burning this drama and then you succeed in burning this strawman but
+you did nothing against idealism you understand what i mean so this argument that the the arrow the
+empirical error of causation from the physical to the mental that dismisses idealism is is just
+begging the question it doesn't touch idealism because for the idealist there is no physical as separate from
+the mental optically speaking there are only transpersonal mental processes that look like
+scalpels and pills and glasses of alcohol which then have an effect on personal mental processes across a
+dissociative boundary and there is no heart problem involved in that that qualities influence other
+qualities is not a big deal there is no heart problem there interesting let me ask you
+Where does Aunt Millies mind go
+what question i asked uh deepak i think this was as a result of the conference you and i are at
+where is aunt millie's mind when her brain dies of alzheimer's and you know in other words her memories
+are just disappearing neuron by neuron and they fade over the course of six months a year two years whatever so
+deepak's answer was aunt milly was an impermanent pattern of behavior in the universe
+and returned to the potential she emerged from in the philosophic framework of eastern
+traditions ego identity is an illusion and the goal of enlightenment is to transcend to a more universal
+non-local non-material identity so again you know this is i think just
+the difference in world views between deepak and i and maybe between you and i or maybe between you and deepak and i uh
+that is to say using something like an alzheimer's victim uh and her memory is gone well
+the memory was encoded in these neural networks which die and the memory is gone you can't get
+it back where did it go um and in the same way i guess i would ask you you know when i'm
+i just went under surgery i had a total hip replacement so they put me under it's third fourth of time i've had this in my life you know
+it's just count backwards 99 98 boom lights out and then they wake me up a couple hours later well where was it where did where
+did my consciousness go and i'm one of those obnoxious patients when you know the anesthesiologist comes
+in and says all right do you have any questions and i said yeah where does my consciousness go when you put me under he goes ah you're one
+of those guys i'm yeah but it's a but it's a it's a serious question right
+under general anesthesia where does my consciousness go after i die where does my consciousness go where does aunt milly's mind go
+with alzheimer's these are two different questions uh
+Where does consciousness go
+where where um do the memories of the person go with alzheimer's or with death
+and then the question of consciousness was i unconscious where did my consciousness go so memories are contents of
+consciousness but they are not consciousness if you know what i mean for the same reason that ripples are not water memories are not consciousness um i
+would say that most if not all the instances of unconsciousness
+that we tend to name like syncope anesthesia dreamless sleep
+they have now been shown by science increasingly to not correspond to
+unconsciousness at all they correspond to irresponsiveness and to a lack of memory of consciousness
+not to the lack of consciousness itself think of it when you wake up in the morning and you think well i had no dreams last
+night it was eight hours of unconsciousness and then later in the day suddenly you remember you had a
+massively intense dream so what you didn't have when you woke up was the memory of being conscious
+you can never state categorically that you were not conscious we can only state that you don't
+remember being conscious and science is now showing for instance and this is a very recent result when
+you dream sorry when you were asleep and you are not dreaming and that can be determined through eegs
+you are having other types of sleep experiences if you wake up subject that are asleep but not dreaming
+they always report something and the three different types have been now recorded sleep thinking
+non-immersive sleep imagery selfless date and even subtle sleep perception
+anesthesia is now known for a while to correlate with some experiences not of pain not the experience of
+being cut but you do have subliminal perceptions and other things going on we had them in the foundation i lead we
+had the dutch anesthesiologist um dr uh gerard
+herrod voulez write an article on our website making precisely this point that basic
+consciousness phenomenal consciousness may not be gone at all during general
+anesthesia and he is a skeptic materialist anesthesiologist um syncope we know we are not
+unconscious and unconscious during syncope teenagers worldwide have figured this out and they play this terribly dangerous game called
+the choking game which is partial strangulation that makes you seemingly pass out you
+become unresponsive but you have a psychedelic trip without a drug and sometimes they accidentally
+die if they are doing this alone so or hyperventilation techniques
+to lead to what is claimed to be transcendent uh experiences you also pass out but you're
+not unconscious you are just unresponsive so the notion that we are ever unconscious is on
+shaky grounds and piracy let's let's put it that way memories you made a statement memories
+are encoded in the brain well we haven't found that yet and then and although there are all kinds of
+claims about people having found memories in the brain they're all mutually contradictory some
+people say memories are in microtubules other people say oh it's in the hippocampus or it's in the patterns of firings across
+neurons and not inside the neuron and and their universities all put up put out uh press releases making
+decisive claims that we have found it but even the best claims when you go and dig a little bit deeper
+there was a claim made a few years ago that okay they found the the secret of memory they know
+exactly where memory is encoded and then i started reading the experiment and the experiment was as follows
+we have somebody see watch a video a short video uh and taking readings of brain activity
+and then later on they asked the person to remember watching that video and the
+person is still instrumented and then they figured out that the patterns of brain activation are the
+same in the recollection and in the original experience of watching the video now does this solve
+the memory problem at all of course not of course the same neurons fire because recollecting experience is
+analogous to having the experience the question is where in the brain is the information that allows you to fire
+up the same neurons later on and that article didn't answer this question at all and yet it was put out
+as okay we've solved the problem of memory so you know as good skeptics we have to be very cautious against
+university pr department headlines they need funding so they need to put out these
+spectacular claims as far as memory is concerned it's a understatement i think to say that the
+jury is out there it's a massive confusion of contradictory
+claims what's happening right now but anyway finally to get to the spirit of your question
+i am with the deepak the ego is an illusion is a narrative we tell if i were to
+become completely amnesic to next second would i still be me and if i managed to transfer all of my
+memories episodic skill memories everything to you would you be me
+well you would feel like you were me because you would have all my memories even my tastes you would arguably have
+because you know it made the test the brussels sprouts i love brussel sprouts but if you had the memories of my
+pleasure eating brussels sprouts arguably you could develop a taste for brussels sprouts i like them at the same
+time where is bernardo garlic butter that makes it and when they're barbecued then i like
+okay bernardo are you you see what i mean what you mean let me ask you something are you talking about this 2015 paper i
+wrote about this in heavens on earth i have a whole chapter on um cryonics and and mind uploading and
+all that stuff so the guys that were telling me about this um that that
+are part of this brain preservation program um to you know essentially freeze all
+memories at a certain point when you're about to die or whatever for cryonics or for mind
+uploading scanning the you know the frozen um connect dome and and and converting it
+into a digital file and uploading it so that their argument to me was that this is ken
+a neuroscientist named named ken hayworth so he cited this 2015 paper titled
+memory engram storage and retrieval by the neuroscientist susumu sorry sorry
+tongawa and his colleagues uh in which quote memory may be stored in a specific
+pattern of connectivity between engram cell and symbols ensembles
+distributed in multiple brain regions and this connectivity pattern is established during encoding and
+retained during consolidation based on these integrative findings we propose that enhanced
+engram cell specific synaptic strength is crucial for the retrievability of particular memory engrams
+while the memory information content itself is encoded in a pattern of n-gram cell
+ensemble connectivity now that's a that's a mouthful but their argument was that the moment the memory gets laid down and
+it's there for a few hours or days or whatever it's there and so if you freeze somebody or you you
+solidify the cortex and you scan every single detail every
+synaptic connection you would essentially have the memory and and they say that under certain surgeries where they like cardiovascular
+surgery or heart replacement uh where they bring the temperature down of the of the
+of the core body you know to like 34 degrees there's no neural activity there's no
+molecular activity at all in those neurons and yet when you wake the person up the memories are still there
+so their argument is that the memories are permanently stored and therefore they could be recovered
+either synaptically through you know this this digitally scanned connectome or if you were chronically frozen and
+woken up somehow a thousand years from now those memories would come back on board because they're in there
+permanently your thoughts this is not the study i was referring to
+Memory in the brain
+the study i referred to as an american study not a japanese look from a metaphysical point of view when
+and i'm pursuing a metaphysical hypothesis here um it is irrelevant whether memories are
+encoded in the brain or not because you know from my point of view um the brain and your whole body is what
+the configuration of your dissociated mental processes look like and if you consider memory part of your
+mental processes which obviously they are it there would be no surprise in finding a physiological correlate for memory
+in the brain because it's what memory looks like you are supposed to find the phenomenal
+in the image of the phenomena at least part of it so from that perspective it doesn't matter to me but what i would
+say is it's tricky to to
+take a conclusion based on one study because i could mention a whole of a whole lot of other studies that contradict this alt-right there is a
+there was a study recently done on planaria and planaria have some rudimentary nervous system in their heads but the
+the nice thing about planaria is that you can decapitate them and they don't die they just grow and you had new neurons
+and they managed to train those planaria to find food in a certain way then they decapitated the planaria
+the planaria grew new heads and guess what they still remembered how to find food in that exact same way
+without the heroines that learned it in the first place you mean yes somehow the pattern was preserved
+and it doesn't seem to have been locally stored in those neurons there seemed to have been
+a more yeah a distribution through the physiology of the of the animal enough that it could be
+recalled again um there have been studies in mammals i think i believe rats but those are
+older studies they sliced up the brains of of rats i think uh trying to figure out
+at what point the rat becomes in unable to navigate uh a maze that he knew how to navigate so he
+remembered how to navigate and you need to cut out a lot of the brain uh to the point that the rat becomes
+functionally dysfunctional um and and recent claims about
+very specific locations for memories on specific neural networks or in
+specific structures inside the neuron there was a recent claim about some rna mediated
+memory mechanism that had to do with traffic between uh um the nucleus of the cell through uh
+messenger rna and the rest of the of of the cell the neuron in that case
+and all of these things are published with big claims behind them and the only certainty we have is that
+they cannot be all true i'm not a neuroscientist they cannot evaluate yeah
+yeah but medical but physically speaking i think it's it's irrelevant i was going to say
+metaphysically speaking these guys are are uh physicalist materialist monis
+for them they want to escape the the inevitability of death being the death of everything
+yourself your memory if it's all gone by by somehow preserving it either
+chronically freezing it or scanning it in a you know electron micro micro electron scanner and then
+converting it to a digital file uploading it to the cloud and turning it on there and so on so you can see where they're
+coming from as physical as they this is the only way to preserve yourself indefinitely going
+forward for immortality or resurrection of the south but let me tell you about let me get your
+perspective on this counter argument that i make and maybe we're both wrong from an idealist perspective but
+it seems to me there's two definitions of self there's your memory self or mem self and then there's point of view self
+or pov self so the point the memory self is just this idea that these guys have if i have all of your memories click i
+have a picture of it i have you but for me if if instead of you know wait until you die
+and legally for cryonics you actually have to be dead and and the cryonics is a form of burial
+uh and then we freeze you and so on uh hey that's only capturing
+me at that particular moment not me you know 10 years from now or 10 years earlier or whatever because memories are
+bleeding but also if instead of doing it that way let's say we had a sophisticated fmri brain
+scanner and we slid me in there and scanned my connectome converted the whole thing to a digital file uploaded it to the cloud
+turned it on and then i'm out standing next to the scanner and i'm like i'm right here and they go no no you're up
+there you're in the cloud you're right there in the camera okay and i'm like no i'm not in there i'm
+right here so this is the pov cell that you know the looking through my eyes a personally subjective experience
+of the world from moment to moment to moment that cannot be captured not even in principle
+unless you want to say well we need a new definition of self there could be more than there could be more bernardos there
+could be a dozen bernardos we just you know like captain kirk on the enterprise we just you know uh you know
+beam you down to the to the planet now there's two of you and then there's four of you and you know every time you get beamed you get a copy
+there would just be multiple use right so but is that whole pre are we just kind of missing it because
+we're not idealist that you know the point of view self memory self these are both uh flawed in the
+idealist thinking of what the self is well it depends on what you mean by self
+Core subjectivity
+i mean there is a narrative of self if you call that the self then then the self exists because there is a
+narrative of self you know i am this person born that day and i have this profession married to that other person living in this place
+um i don't think that is the fundamental self in analytic analytic philosophy there is this
+concept called a core subjectivity it was put forward by it shiny like six years ago but it's just
+an amalgamation of knowledge that we have had forever and his point is that core subjectivity
+is what remains of the self if the narratives are gone if the memories are gone episodic or
+otherwise it's pure subjectivity um if you consider that to be yourself then that self is
+undifferentiated it's the same self in you and in me because we both are
+subjective beings capable of subjectivity if you remove the content of subjectivities from you and me
+and you just have that point of view that opens up to a field of subjectivity but nothing in that field then i and you
+are identical perhaps not even identical but the same in the sense of not being too unit
+since space time is a sort of a content of subjectivity so from this perspective if that's what
+you consider to be yourself and deepak will say the same thing in much more beautiful words than i'm
+capable of if you identify with your core subjectivity then for an
+idealist you're never going to die because you are what's going on course objectivity
+is what's going on it's where everything arises and vanishes it's the framework of nature but we are
+stuck on these narratives of personal selves and and the religious impulse doesn't
+spare anyone so we created this religion called singularitarianism in which we turn
+technology into the promise of a god which will give us control over everything i mean
+psychologists know very well that the one of the key impetuses behind religion traditional religion is
+controlled by proxy you can't control your destiny but there is this this being much more powerful
+than you that sympathizes with you and shares the same values with you and he
+can control everything that happens so it gives you a sense of control by proxy well segunitarianism
+singulatarianism promises to eliminate even that layer of indirection now you directly have control
+i think the psychology of it is precisely the same as the psychology of religion and we will not find peace um
+because i don't think a personal self has any substantive existence i mean
+i am not the same person i was 10 years ago my uh or or 20. i think in a completely different
+way i respond to the world in a completely different different way my memories are different you're not completely single
+we know personality psychologists know that we have kind of a core set of of personality characteristics that are
+fairly stable through the lifetime uh openness to experience uh introversion extroversion
+conscientiousness and so on and and while they change over the life span you know people that tend to be say shy
+and introverted they're they're mostly that way throughout their lives they can kind of try to overcome it by being a little more social
+but there are kind of there's sort of a set of fuzzy boundary characteristics that are relatively
+stable maybe you and i are different on those characteristics based on genes and early environment or whatever
+so i think maybe if we think of the self as this kind of fluid flexible fuzzy kind of ball that's moving along the
+timeline within the channels let's say the walls we can kind of bounce around within there
+but there's still the walls there we can't just become anybody we want
+Experiment
+okay i i'm totally comfortable granting that that there is some core that remains more or less
+stable but most of what we consider to be ourselves or at least a lot of it is fuzzy and
+fluid and it's changing all the time what i would add then is the following if we could do the
+following experiment right now it's just a thought experiment because we can't do that if i could for 30 seconds
+be you and take on your point of view not only your point of view towards the external world but your inner point of
+view to experience what you experience from inside i think we if we could do that
+we would figure out that even these core characteristics that seem to endure over
+time are not what we call our true selves we would be entirely comfortable suddenly
+become extrovert if we are introverts for 30 seconds and experiencing that and come back to being who we are
+and at no point we would think we are someone else because those are just particular
+patterns of excitation of subjectivity and what we really are um is pure or core subjectivity as
+it a uh put it so i think this whole discussion about you know survival postmortem and all that will the igor or
+my individual self survive it's a red herring i mean when you're dreaming you
+think you are that dream avatar right you think you are that you are not the mind
+when you are dissociating from your own mind maybe five minutes after i wake up it kind of becomes clear oh that was a
+dream that wasn't real and it's a good thing don't mourn the death of your dream avatar
+but that's the point you you don't proceed to mourn the death of your dream avatar you just realize oh it was me how
+long and i was not that that was something i was doing and that goes back to deepak's language
+the individual self is something subjectivity is doing it is so tenuous it has no
+substantiality it's changing from moment to moment if you ask me will my individual agency
+survive death no thank goodness thank goodness not because my individual agency is a
+particular process a dissociative process if life is what this process looks like
+then the end of life death is the end of the dissociation so it's the end of my personal agency
+am i worried about that not the least be it for the same reason that i'm not
+worrying about waking up and realizing that my dream avatar is dead i don't think that's the way to go yeah
+i'm glad you brought up the singulitarians i went to the singularity university conference a few years ago ray
+um ray kurzweil gave the keynote address as you know this is kind of he's the man and i swear i felt like i was back in
+church it was like oh my god this guy is offering you know eternal life all this is going to happen in my generation
+we are the chosen ones oh my god yeah and he keeps getting put as you know yeah you know 20 30 20 35 20 40 and
+i'm thinking oh boy i'm going to be 90. let's get there quick you know when i think it's 20 45
+now yeah it keeps getting pushed back i'm gonna be a hundred at see i was born at 54 so it's got to
+be uh 220 20 54 before we make that or else i have no chance but here's my other problem with it this
+you know as you know as you know i don't know how much you know about ray but and there's a beautiful film about
+his life called the transcendent man uh where they follow him around for you know quite some time and he's got a
+whole basement in his house where he keeps all his father's stuff you know his father died at like age 54 or something and his
+father was a workaholic and ray was a workaholic they didn't know each other he kind of feels like he missed out on his father's
+relationship with his father and he wants to essentially resurrect him it's it's a very kind of freudian jesus kind
+of i don't know what you want to call it uh but but even if you did that with almost 100 fidelity um
+you know you're only capturing a person at a particular moment like if if i had my connectome let's say
+um scanned at age 36 well i'm now 66. so where are the 30 years of
+memories that i've had of this rich life or if i you know if i if we do it now i
+hopefully i'm going to live another decade or two where do those memories go and by the way the memories of
+you know of being age 10 or 15 that you have now are not the memories when i was 10 or
+15. those memories are always changing and being edited and and updated and confabulated with
+other memories and you know they're not real memories there's no fidelity uh camera in there recording what actually
+happened and then i play it back and rewind in the theater of my my mind none of that's true so i don't
+even know even if you could do what ray wants to do with the singularity that's still not going to capture you
+you're still not going to continue on i am totally with you and even the core
+traits of our personality that we were talking about before i mean there are instances on record of people who suffered major
+brain trauma i think there is this instance of this guy who had a spike go under his chin and traverse his brain
+and he lived with that for years and his personality completely changed he became angrier and his all his character traits
+changed but i think if you would ask him why you're still the same person he would say i'm still the same person
+why because he still few feels as the same course objectivity there is a continuity of course objectivity
+throughout life i still feel like i'm the same person i was when i was five years old but at the same time i miss that
+five-year-old deeply because he he he interacted with the world or perceived the world in a
+completely different way so i think the buddhists are right this whole story about personal selves or the
+buddhists and the hindus it's it's maya it's it's it's a story we tell ourselves it's not in the in the
+foundations of nature it's not what's going on and by the way i i also argue that you know christians and and those who
+believe in a religious afterlife they have the same problem the resurrection of the self uh you know if
+when i die i'm supposed to be you know uplifted up in the clouds and there i'm sitting at the feet of jesus and and god how
+they could be two people at the same time is beyond me but any case and uh but but who's up there you know
+with with jesus me that that is to say is it me at age 30 40 50
+you know there was this idea of you know there was a debate in christian circles about how old
+you would be physically because there's one branch of christianity says you're physically resurrected at the end of life others
+it's just no spiritually resurrected just your soul let's say so those who say it's you're physically
+resurrected then the question is well how old are you when you're up there and the answer was age 30 because that's
+how old jesus was you know it's like the perfect age or something like well that's nice but you know here i'm 16. it darn it
+terrible you know where's the where's that you know 36 years of experience i've had that that's gone if
+i if i get resurrected at age 30 do i get the memories of 66 years or whatever you know so so
+the religion and i don't like my thirty-year-old self yeah that's right i'm a much better person now i think
+i like to think i am you know so the religions have the same problem also you know the idea of the soul adding a
+soul to it doesn't really solve any mystery it's just another mystery you know how how for example the
+question i always have for religion to send paranormalists how does the soul or the ghost interact with the physical stuff you know the
+ghost i woke up i saw the ghost go down the hallway and turn right and it went into the bedroom and
+jiggled the the picture on the wall and knocked it off how does the soul know to turn right
+right how does it see stuff and i have the same problem by the way with near-death experiences you know
+that you know i was under and i almost died lack of oxygen surgery drowning whatever
+and my self soul floated up to the top of the ceiling and i could look down how does the soul look down how does it
+look how does it hear oh i heard the doctors telling jokes how does it hear there's no ears or eyes
+it's just a immaterial substance or non-substance or whatever you want to call it so to me this whole
+issue is fraught with problems like that there's a lot of comment uh uh there
+michael um i am usually more patient and and and
+charitable towards religion because i don't think religious texts or
+the classical doctrines of religion were ever meant to be interpreted literally
+because at the time they were written when the jews began writing the old testament in mesopotamia two thousand two and a half thousand
+years ago the very concept of a literal truth was not part
+of their of their mental sphere everything was an analogy everything was
+a metaphor everything was like something else and that that's how you made sense of things
+by finding this this links disassociative links of forms of similarity and that's how you
+would account for something through metaphor through simile analogy but of course theologians are most to
+blame for this stern we've taken with scholasticism to interpret everything literally to have discussions about how many
+angels can dance on the head of a pen i mean geez that's not what religion was ever
+meant to to to originate this type of discussions so i think religious people i would
+grant that are mostly to blame for trying to interpret everything literally because of i don't know some
+some need for comfort or control i don't know um but i would not criticize religion per se
+for the illogical implications of interpreting the the doctrines literally
+because i think that's not how religion was born i would be more patient for that but i would go totally along with you
+for instance on the critique that um well let me say it my own words nature has labored for
+about a billion years to develop a decent eye i think since the yeah was it right
+you have our thereof um maybe half a billion if this a long time need yeah maybe
+yeah well i mean a decent eye not not just a light and dark but but anyway uh
+so if we were able to see and hear and smell without any of
+the sense organs that nature has labored over billions of years
+at tremendous cost of life and pain and blood if we could see and hear
+and do everything without those sense organs then nature would be incredibly superfluous
+and there is no indication that nature is superfluous at all
+but at the same time i i don't dismiss this outright because i think there is something else going on here
+and and it's lost in translation and and the reason is all of our cognitive categories uh um
+are formed through perception uh um every every time we need to describe
+something we need to describe it in perceptual language because that's how our inner categories have formed
+through referencing the contents of perception so if you have an experience that is
+not registered as purely endogenous there is something about that experience there is some information about the
+outside in that experience and you were asked to describe it you would only be able to to appeal to
+your pre-existing categories because that's how language has evolved you don't have anything else to refer to
+so even when you tell the story to yourself even in your inner storytelling when you tell yourself what happened to
+you you will appeal to those categories and then that is the birth of contradiction
+because you cannot possibly have actually seen something if your body was not working and nature
+wouldn't create a copy of that why would it labor so much to create physical sense
+organs if it didn't need to have that so i am with you and the criticism
+but um i don't go all the way to the conclusion this is nonsense uh i i'm more receptive to a different
+way of regarding this if you know what i mean and the reason i do it is that i don't think all these people can be lying
+there is something there well my conclusion in heaven's on earth is that nobody knows
+if that is if there's an afterlife one way or the other we don't know for sure nobody does so you know good to keep an open mind
+just in case i'm only only too happy when i close my eyes here for the final time
+that i just wake up somewhere else uh you know whether it's deepak's you know some state of consciousness in some quantum
+field or whatever that's fine i think it's a little too crude to think well i'd be punished
+because i was an atheist and therefore i'll be you know suffering miserably how would i suffer if i don't have a physical body
+um yeah i'm not worried about it um but so this is another related question the
+latest issue of skeptic magazine the nature of reality we we did a story on um all this kind of
+resurgence of micro dosing of things like uh psilocybin and ayahuasca and other mind-altering
+drugs as a form of treatment for things like ptsd and depression and so on but this gets to a deeper question
+because the majority of people that have these experiences let's just use ayahuasca
+you know their sense like aldous huxley's the doors of perception is that the drugs themselves open the
+doors to this other world that's actually out there and that the beings that they see
+and the colors that they experience the sounds the sense of love and so forth that are pretty intense are not just
+hallucinations that maybe a neuroscientist would say oh that's just a hallucination no there you're the drugs are opening a
+doorway that you and i are sitting here drinking our coffee instead of ayahuasca are not going to experience because you
+got to open the door so what are your thoughts on you know to what extent these kind of mind-altering drugs
+are just hallucinations just versus actually opening the doors to some other reality
+at this this is a mine field i can step on a bomb here before even i know so try
+to navigate it carefully i have had uh um psychedelic uh experiences oh come on
+ten years ago i felt that i i couldn't yeah i couldn't write about the mind
+if i didn't include that as part of my background research so i've for a period
+of two years i have had a number of psychedelic experiences not with ayahuasca
+but with the psilocybin and solvinarium a both they're very strong psychedelics i
+did it all safely i live in a country in which it's allowed to do that and i had my doctor's supervision
+checking my liver and my heart before i did it for the first time everything nicely done and i will acknowledge one thing that i
+think is the critical point your sense of reality during a psychedelic experience
+is extremely strong way stronger than the sense of reality i have right now
+the experience that you have is this is more real than real and that's how people normally report it
+you hear these words from a lot of trippers it's more real than real now at the same time it is
+obvious that i was not physically in another dimension i was not physically in another world
+because if my girlfriend would look on me she would see me lying on my bed with my
+eyes closed and my ears closed so i didn't physically go
+anywhere even though it certainly feels like you are somewhere else physical it feels like that it feels
+like you are in an alien world with different dimensions and different laws of physics and logic not only laws of physics
+and there is a very very palpable sense of hyper reality to that but it cannot be literal because i was
+here my body was here so what do i make of it what i make of it is the following
+it is our sense of reality that we have to be very careful about the psychedelic trip is endogenous
+you are not literally in another dimension and yet you believed extremely strongly that it was real
+now you believe that this is real right now that's what you have to take into it that's
+what you have to be very careful about now it's about your belief in this reality as something outside mind
+because the psychedelic experience clearly was not outside mind you were in mental space
+your body were here if you put 10 people around you they would witness that your body never went anywhere and
+yet you have that sense of reality so it's this sense of reality right now about the world being outside mind
+that's what we have to question and beyond this one conclusion i would be extremely cautious about
+what people call psychedelic noses some people come back and say oh i talked to alien in the aliens in the pleiades who
+told us that we are going to wreck the planet with global warming well be very careful about that because
+the first the directive of mind is to deceive itself right any opportunity mind gets to deceive itself
+it will do that because that's the mechanism of reality creation that's how you create reality is mind
+deceiving itself that there is something outside mind that's my view of it uh michael so psychedelic noses
+that has taken literally i think is very suspicious what is reliable is the sense of hyper reality
+but what you make of that is not to say the psychedelic trip was physical no it's to think no this is right now right
+now this is mental yeah my friend michael gazzaniga lives up here in santa barbara with me and
+famous neuroscientist that did some of the early split brain experiments uh also talks about some
+other memory um disorders that people have one of which was he told about this woman that was in a hospital
+who was convinced she was home and so the doctor took her down to the down the hallway to the bank of elevators and
+said well what are these here she goes you have no idea how much it cost me to have these installed in my house
+you know so and so michael michael's story about the reason for
+telling the story is that we have this what he calls the left brain the narrator or something like that
+that is we some part in our left brain constructs some problem probable uh explanation for why we did
+what we just did so in the split brain he would flash this sign thirsty or a coca-cola can or whatever and the
+other side the brain has no idea that it even saw this thing and all of a sudden the person gets up and says well i'm going to go over and get a coke why
+well i'm thirsty so the brain is making up a story to explain you know what it why it's doing what
+it's doing even though you know the doctor just made him do it essentially
+which has implications for free well but yeah there's plenty of evidence for that even our own sense of self is is defended and protected through this
+creative narrative making sure the eyes come up even if i think yeah all autobiography is just
+almost a complete waste of time because you have no idea why you did what you did and you know at this point in your life
+when you decide to write your autobiography you're just making up to explain why you did what you did when you were 12 and 18 or whatever
+yeah it's it's it's pretty problematic um but okay so i had another point on this um oh well so um you know talking about
+these different kinds of trips i wrote about this also um that uh
+in heavens on earth that you know this idea like even alexander uh who wrote this book proof of heaven
+and i know him i've met him we've done several shows together i really like him you know he's a harvard trained neurologist he knows everything
+about the brain that i know and a lot more and and yet because the experience he had when he was in a coma which by the
+way was an induced coma because of this brain swelling he had from the virus and
+it looks like the experiences he had his near-death experience happened when the doctor was bringing him out of the
+induced coma so it was in this kind of fuzzy state between uh induced coma and full waking
+consciousness but the but what he describes is very much you know along the lines of
+of what other people experience here's you know he described there he met a young woman with high
+cheekbones deep blue eyes golden brown tresses framing her face they were on a butterfly in fact
+millions of butterflies were all around us fast fluttering waves of them dipping down into the woods and coming back
+around us it was a river of life and color moving through the air the woman's outfit was simple like a
+peasants but its colors powder blue indigo and pastel orange peach had the same overwhelming super vivid aliveness
+than everything else had and so on and the message that he got from this experience he had was that you are
+loved and cherished dearly forever and uh so that made me remember i wrote about this guy in my
+book the believing brain chick darpina was a just a bricklayer friend of mine that had this experience at four in the
+morning he was getting divorced separated lost his kids and you know was just miserable and upset
+and depressed and sad and woke up at four in the morning and heard this voice and the voice told him essentially he
+wouldn't tell me the exact words but you know you are loved you know we are here we know you're there you are loved and this is the
+message for humanity and he ended up trying to go he was supposed to deliver this message to the president at the
+time president johnson and so he actually tried to go there and of course he ended up in a mental
+hospital because they said you want to see the president why he goes oh i have this message it's a funny story i wrote about he's a
+he's a really good guy but but again the core message was you know this kind of deep love and then my other example of this was uh
+sorry hang on one second here um and then writing about you know sam harris and opening pages of waking up
+he talks about taking mdma or ecstasy and he reports that he was suddenly
+struck by the knowledge that i loved my friend he and his friend did this sitting on the couch there together not friendship or romantic but
+this feeling had ethical implications that suddenly seemed as profound as they now sound pedestrian on the page
+i wanted him to be happy more than this harris says came the insight that irrevocable revocably transformed my
+sense of how good human life could be i was feeling boundless love for one of my best friends and i
+suddenly realized that if a total stranger walked through the door at that moment he would have been fully included in
+this love and then and then i also talked about um oliver sacks you know in his in his uh memoir he
+talks about drug trips he took same kind of thing you know incredible colors he took one
+uh in which sitting at a diney uh sitting in the cafe at the table stirring his coffee suddenly it turned green then purple
+he looked up and noticed that the customers at the cash register had a huge probeskian head
+like an elephant seal shaken by this image sacks ran out of the diner and across the street to a
+bus where all the passengers seem to have smooth white heads like giant eggs with huge glittering eyes like the
+faceted compound eyes of insects at that moment the neurologist realized he was hallucinating but that
+i could not stop what was happening in my brain and that i had to maintain at least an external control and not
+panic or scream and and on and on anyway my point of all this was that you know when even alexander talks about
+this super powerful experience he had to an outsider like me it's like but it's indistinguishable from
+sam harris's trip my friend darp chick darpina who had this experience when he was sad four in the
+morning or uh oliver sax's you know hallucinations and so on they're all in this kind of bin
+of of uh you know these altered states of consciousness that we just don't really understand i
+mean you and i just talked about the fact we don't have a good explanation for consciousness much less an altered state of consciousness and
+what that means so then what do you do with that of course even wrote a book about it you know proof of heaven i know it's
+a proof proof that's a pretty strong word when in fact nobody knows and that the
+fact that these kinds of powerful experiences are so powerful is revealing but revealing of what
+you know that's the hard question well he didn't choose the title of the
+book um by the way his publishers as well as i know that
+we don't we don't have the right to choose the titles our cover of our books we surrender those rights immediately
+upon signing a contract um look regarding eben personally i am
+quite convinced that he is sincere now i could speak for half an hour why
+but i'll just leave it there i do think the criticism of um
+that we cannot know exactly when the experience happened and i'm not talking now about even
+specifically but i think that is a valid question to ask when did the experience happen
+and in cases of um and ye sometimes it's very difficult to pin that down conclusively
+because these are not perspective experiments you don't plan when you're going to kill someone
+and and then take a a brain scan or you know or have some temporal markers to to pin down when the
+experience happened now luckily for us it's not only in the ease there is a very broad
+set of instances in which uh regular brain activity reduction or
+impairment correlates with an enrichment or an intensification of experience at a
+transpersonal level uh even and these are just one example you don't have a heartbeat anymore so
+your your your circulation has stopped your blind your brain cannot metabolize at least normally anymore
+but you have other instances psychedelics are known to now every psychedelic studied and this is a
+very robust effect that has been replicated multiple times they only reduce brain activity
+the only thing they increase is a measure that researchers call now entropy and what they mean by it is just
+noise it's incoherent brain activity um there is a tiny tiny minuscule
+increase in noise levels in the brain even though brain activity sort of collapses your brain goes to sleep
+and that increase and i can tell you the exact numbers is 0.005 in a scale of 0 to 100
+and in many instances brain noise actually decreases during a psychedelic trip and the person still has the
+experience so that's not a viable account physiological account for the psychedelic experience
+all other experiences seem to correlate with brain activation but the psychedelic experience only reduces
+brain activation quite significantly all psychedelics now for those you can't pin down exactly
+when the experience is being had and that's what that's how researchers go about it they put you in an fmri
+with some electronic means of reporting your experience while your brain is
+being scanned now you could say you know fmri temporal resolution is poor yeah but in the context of a 40-minute
+trip you know you can have a lot of error moreover experiments have been done with mag
+an eeg and both are temporarily very very accurately very accurate you can pin down exactly
+uh the moment in time when you took those readings and the person is reporting what he's feeling while those readings are being taken
+and the experiences are similar except that under psychedelics you know that they happen when your brain was
+sort of gone to sleep like presumably would be the case when you have an nde caused by cardiac arrest
+there is no blood perfusion anymore no oxygen perfusion your brain goes to sleep literally now
+this there are many more instances there was a neuroimaging study done in brazil they took
+self-proclaimed mediums in a control group and they put them all under an fmri scanner and they asked them to
+write in trans or outside trance and turned out that the brain activity of the mediums
+significantly reduced in all areas of the brain engaged with writing text while they were writing
+text introns and the text they wrote in trans scored higher on a scale of complexity
+than text they wrote outside of trans and and that's something you cannot question the timing in which
+the readings were taken they were instrumented and writing things down a temporal correlation is very precise
+i could go on and on with this micro but what i mean is there are instances in which we cannot
+be sure of the temporal the moment when the experience occurred but there are many other instances of
+very analogous experiences with the same essence so to say in which we can be sure of that and that
+i think is something we should take seriously um because it also resonates with the
+entire history of human beings i mean initiatory rituals the world over in pre-literate cultures
+what do they do to to give young people insight into the true nature of reality they make
+them exhaust themselves or ingest poison or sweat for three days in a sweat lodge
+and and dehydrate and not drink and not eat and be punished physically what do you
+think that does with the brain physiology with the normal operation of the brain so there is a there is a correlation
+between impairment or reduction of regular brain activity and some forms of transpersonal insight that
+i think are worth uh studying because the evidence is pretty strong oh for sure and as i said we don't have
+a good theory of consciousness so how can we have a good theory of altered states of consciousness i'd say the research is pretty early on
+um i was thinking here i was looking up for oliver sax's comment that i quoted where he said something about if you scan the
+brains of like a schizophrenic who hears voices the auditory tracks are active the neural tracks are active he
+the schizophrenic really hears the voice as if it's out there no different than you and i even if
+there's no sound at all out there so you know that's that you know the problem of of of
+the self that is how do i know you know the zombie problem how do i know you know that you're conscious like i'm
+conscious so uh and that you're not all a bunch of zombies and i'm the only one that you know you've written about this
+well here's my super simple solution this problem yeah it is the copernican principle you know
+that we're not special i just apply it to myself i'm not special i have the same neurotransmitter substance as you do my synapses and
+neurons are you know wired up the same way yours are and so on and so on the chances that when i see you with
+tears and a sad face and i know how that feels it's reasonable for me to assume
+you actually are experiencing the same kinds of emotions that i'm experiencing as opposed to you're just
+faking you're like what's in the computer pretending and i'm the real one that seems unreasonable
+i agree with you i think although strictly speaking in analytic philosophy
+there there isn't a conclusive refutal of solipsism the notion that you are the only living being that's
+conscious everything else are images in your own dream um as bertrand russell said
+not even solipsists act in accordance with what they proclaim they believe right because they try to convince you
+of solipsism i think the analogy of behavior and structure
+between us who we know are conscious and other living beings that analogy of behavior
+and structure means that the simplest account for the facts fact is that other living beings are
+conscious to you uh you also wrote about and i wrote
+about two olaf blocks um famous experiment surgery on a 43 year old woman suffering from epileptic
+seizures olaf blanc and his colleagues electrically stimulated the neural this neural module the right
+angular gyrus um and found that when they did so the woman now awakened reported that she
+could see myself lying in bed from above but i only see my legs and lower trunk
+stimulating an adjacent point in this area induced quote an instantaneous feeling of lightness and
+floating about two meters above the bed close to the ceiling close quote the
+scientists found that through the level of electrical stimulation they could even control the height
+that the patient reported feeling above the bed touching different points in the right angular gyrus produced the
+sensation that her legs were becoming shorter or moving quickly toward her face causing her to take evasive action the
+neuroscientist teams team concluded quote these observations indicate that obes out of
+body experiences and complex somatosensory illusions can be artificially induced
+by electrical stimulation of the cortex and that it is possible that the experience of disassociation of self
+from the body is a result of failure to integrate complex somatosensory and vestibular information i originally
+wrote about that in scientific american and said you see it's all just you know it's just neurons it's just neurons firing there's nothing
+going on out there no one's going anywhere you know and and he actually wrote me and said no no that's not the conclusion
+we're making went oh all right but you know that's that's kind of the implications if there's a physical
+system but that gets back to where we we were before but how do you think about those kinds of experiments that you know make it seem like
+you know the neurologist sitting there with the electrode you know with open brain surgery can control what the
+person is experiencing therefore it's brain there's no mind or anything
+floating off the brain well the error here we talked about it
+already is question bagging you're assuming the conclusion that you that you're arriving at in the argument for
+the conclusion under idealism this electrical stimulation too is just the appearance
+of a mental process that is interfering with your personal mental process and leading to a certain experience called
+an obe so it doesn't contradict idealism at all but i understand the intuition and i
+understand why the vulgar knee-jerk reaction is to say oh that materialism is right if you if
+you don't actually think it through but uh even in that case i would say well you don't need these sophisticated
+experiments to convince yourself that stuff we call physical
+have a direct impact on stuff we call menthol so and i'm being agnostic of philosophy now prove
+that to yourself by drinking alcohol why do you need somebody putting a probe inside your brain drink
+enough alcohol and you have an ob in china for all you know um so this is no news if you know what i mean
+uh the relationship that cause a relationship between things we colloquially call physical and things
+we colloquially call mental is there all the time uh if you prick your arm with a needle
+you will feel it hey there you go that's physical to mental causation right now so you you don't need this sophisticated
+stuff um but in all cases including the trivial ones like the needle prick
+you just have to guard um with making a hidden assumption in
+in your line of reasoning that puts you off the path of reason so to say and and
+that hidden assumption is this very tempting division of the world between the physical and the mental
+remember what we call physical are just the contents of perception they are qualitative things they're for
+mental colors are mental smells are mental um so that contents of perception
+can influence other experiences that are not part of the contents of perception
+is entirely entirely acceptable or consistent with idealism because under idealism the
+contents of perception are just the extrinsic appearances of mental processes
+your body is the extrinsic appearance of your personal mental processes you are dissociated out there so to say
+but inanimate objects are just parts of this great extrinsic appearance we call the
+inanimate universe which intrinsically is also mental doesn't mean that it's a higher mind
+making plans and deciding what to do no no it's the naturalistic mind um and that those transpersonal mental
+processes can impact uh personal mental processes this is trivial it's just like a thought
+leading to an emotion or the other way around so it's very tempting sometimes to
+think shallowly and then have high confidence in a conclusion that is fallacious that you know it may
+even be right but not for the reasons you think it's right uh if you know what i mean and that's what we have to guard against
+so back to your book title and granting that maybe your publisher
+oversold this well you know why materialism is baloney but the subtitle how true skeptics know there is no death
+okay i assume you you would not you would not say we know that 100
+no one knows for sure right so but what what do you think just tell us in your own words what do you think happens when
+our physical body dies well you know we cannot be certain of
+anything as you said so when we say we we know something what we mean is we have very good reasons to assume that
+that is true and there are a number of things that we have very good reasons to assume
+are true and and the provocative aspect of the subtitle is to is to say that the death of our
+inner subjectivity we have very good reasons to assume that it's not true that it's not going to
+happen and and the the rationale and some people may be disappointed with what i'm about
+to say the rationale is not that your personal agency survives because the body clearly is the image of
+that which you call your personal agency so if the body disappears then the thing is an image off
+cannot preserve its integrity right i mean flames are the image of fire if flames stop
+then oxidation probably stopped too right because it flames are the image of the thing if if the image stops they think they are an
+image of probably stopped too so i think our personal agencies stop but i also think that if you
+have developed over time a discipline of introspection um that you are not just very
+superficial about your notion of self that you have dug deeper um and you realize that what you call
+yourself actually is a sort of bare poor subjectivity
+a sort of a field of subjectivity but not necessarily with particular contents over a specific
+narrative of self if you have come to the point that you realize that that's what you actually are everything else is just stuff
+happening to you or in you or around you if you come to that realization
+then that car's objectivity has nowhere to go because i would say it's the bottom level of reality it's
+the same in you and me we all have the same course objectivity it's the same in the fish and i would
+say it's the same course objectivity that underlies the inanimate universe as a whole it's not a thinking
+subjectivity it's not a metacognitive subjectivity it's not
+sophisticated in a sense it's what the buddhists call empty pure subjectivity without any particular
+pattern of excitation and modulating it but it's what we really feel as us it may not be what we
+say to ourselves is us but when it comes to what we feel as us that's what you feel as you so i think
+death is something that what something that what you really are will witness
+happening it's something that happens in what you actually are this very foundational
+level of nature this feud uh undifferentiated field of subjectivity
+that schopenhauer called the will and and i think from that perspective
+you will witness your ego dissolution we have that in psychedelic trips we know what it is to die without dying if you ever had a profound
+psychedelic trip you know what it is to die it feels exactly like dying you may ask
+how do you know since you never died well i don't know how i know but it is dying and that is dying because your narrative of
+self is just torn apart you you cannot hold that loop in your in your default mode network
+that is constantly informing you what you are or at least what you think you are that gets torn apart and what's
+left is this naked field of subjectivity even in a psychedelic trip and which is the best model for death
+we have it it destroys your brain activity your brain's your brain goes sort of dead but it's
+safe you can come back and tell the tale so it's in that sense that i think we have very very good reasons to think
+that we are not going to die but the we that's not going to die is this
+undifferentiated field of subjectivity that seems to underline nature so for some people
+they may say ah bernardo what you're saying is just like physicalism because my personal self as an agent
+dies or stops existing but my answer is well you just didn't introspect enough
+to really realize what is actually going on when it comes to the self i think we would after going through the
+process of death i think the realization would be very similar to the realization we have when
+we wake up from a dream your dream avatar is dead when you wake up it's dead it's toast
+it no longer exists but you don't mourn it because you realize oh it was something my mind was doing all along
+and i think that's exactly what's going to happen well i hope you're right uh i think the
+part of the problem to be honest i don't like this conclusion you don't why no
+but you know when i in my 20s i was a sort of materialist by default because i was at cern
+and you breathe materialism in the air even though nobody really thinks about it you know it's not a structured conclusion it's
+just sort of default assumption hanging in the air and you breathe it in i was a materialist by default in that
+sense and i always thought it's very comforting to know that at some point all of your problems all
+of your suffering everything that you dislike everything that you want to get away with at one
+point it will all be gone necessarily whether you like it or not it was very comforting
+and i don't have that anymore um and if a psychedelic trip is a good model for
+death we all know we can have a bad trip so
+no i don't like that maybe that's why i'm afraid of that maybe now i have something to be afraid of that's funny maybe hell is a bad acid
+trip and well again i think the you know for all you know that's it yeah
+yeah i think but again i think you know the western way of thinking about the afterlife is that you you are still
+existing and you're going somewhere to this place which is still kind of a physical way of thinking about
+the cosmos in the world or whatever and you know like woody allen you know i don't want to live on through my work i want to live on in my
+apartment well you know heaven for christians say that's their apartment i get to continue
+living on in my apartment with my friends and my loved ones and and you know the roses will smell even better and you know
+do we eat in heaven how does this work you know no one knows so uh but i i'm gathering from what
+you're saying just jettison all of that that's all still stuck in this kind of physicalist
+uh materialist idea that you continue and you're going to this place a place that's maybe not literally
+physical but it's a place you know it can be some kind of state but that's completely different from what you're talking about
+well i i get asked similar questions a lot as you can imagine especially after that the provocative subtitle of the book um
+i have thought about it they are there ways in which what people think are themselves
+survive are there ways that could happen are there ways to make sense of the so-called reports of reincarnation
+um i've met a group at the university of virginia that i cannot help but respect
+i don't think those guys are idiots so at the same time i don't think there is any ghost
+that floats out of your body and goes nest somewhere else inside the woman of a woman of another
+woman i i don't think this this holds to scrutiny i don't think it's even coherent let alone
+holding up the scrutiny so what do i tell myself in order to sort of accommodate this cognitive dissonance
+well what i can imagine is the following if life is the image of a dissociative
+process then our memories episodic memories and otherwise our insights that we've accumulated
+through life these are experiential contents that are within our dissociative boundary in other words
+they are not accessible to nature at large they are in us not outside us that's the nature of
+dissociation they create this association creates this cognitive boundaries that prevents uh
+um it's a kind of inferential isolation um now if death is if life is then what the
+dissociation looks like then the end of life death is the end of dissociation and what is the end of
+dissociation what happens to somebody with did dissociative identity disorder upon
+the cure upon a reintegration of the altars well the host personality then remembers the memories of all the altars
+as if they were memories of the host personality which in fact they were all along so the host
+remembers the lives the private lives of all the altars upon reintegration so could it there be that
+our memories everything that creates this narrative of self is released upon a broader natural
+context upon the end of the dissociation upon the end of death i think it is i think it's i don't know
+whether we have solid empirical data to say we have good reasons to believe it is but it doesn't violate the logic of the
+model it doesn't violate the logic of idealism it's actually quite reasonable maybe even a prediction of
+the logic of idealism that if the dissociation ends then the contents of the dissociation are sort of
+released in a broader context from where they conceivably could be accessed
+so if you and i die both our inner lives are now dispersed in a broader context then maybe they are both accessible to
+some kind of host uh outer host personality that will remember you and will remember me and in that
+sense i may see you again see you again upon my death and you may see me again upon my death
+and as a matter of fact if you look at what um i'm not a student of ndes or any size
+stuff it's it i'm not saying this because i i don't take it seriously i do take it seriously i just i have some so much to
+study that that's not what i have studied so i'm not an expert at all but i i have
+i did some casual readings and anita morgani for instance who i think is one of the sincere people
+in the story she describes meeting her father but if you read her description of
+meeting her father she says literally it was as if i became my father
+and i thought hey that's exactly what you would expect if her father is a dissociative process
+that ended the contents are now released in a sort of transpersonal context and her near-death experience is a
+partial obliteration of the of her dissociative boundary maybe the associative boundary became a
+porous um and and she picked up on that so she picked up from she picked up on the first person
+perspective of the mental processes that you used to constitute the altar called her father
+so she met her father not from the outside but from from the inside perspective and i thought hey there this is
+interesting um i have i know that literature pretty well i've written quite a bit about it i but again now rethinking it in the
+context of this conversation it could be they're all writing about this from this kind of western materialist perspective
+that the self lifts off the brain it's still a unit it goes to this other place where the
+other people that we know and love are there and they greet us and they say hi and we see the
+colors and so on that's still locked into that kind of western way of thinking if your interpretation is right maybe
+all these narratives need to be re interpreted in this if that you know just another way of looking at it
+uh which could be true maybe it's what has always happened historically that's what always has
+happened in that so-called change of paradigm like thomas kuhn wrote the data is the same you just look
+at the data from a different perspective and it and it makes a major difference
+people ask me what about reincarnation bernardo and because i say well your individual
+self as an agency i think we have every reason in the world to believe it's toast when you die and people go like well
+what about the evidence for reincarnation and my answer usually is the following if i could transfer all my memories to you right
+now what you would describe would make everybody very certain that i reincarnated in you
+everybody would be certain like you could we could only know that uh michael if you were the reincarnation
+of bernardo because you have all his memories but nothing reincarnated is just information
+transfer going on bernardo we're coming up on an hour and 45 minutes here it's been a
+fabulous conversation let me just ask you one last thing another one of these hot button topics that comes up a lot on my
+podcasts because people seem to care about it a lot free will and determinism so in your world view of idealism or
+whatever use word you used to describe it uh you know because i remember reading one of your scientific american columns on
+you're you're defending the free will position but not in the traditional sense uh that you know philosophers usually
+talk about it so where does our agency come from in in your world view are we really making volitional choices is it
+really me making that choice of you know the chocolate versus vanilla despite the fact we live in a causal
+universe with the laws of physics and so on
+you reserve the most difficult question to answer for the end um i usually say the the the the
+freewheel question is a red herring because however you go about it your bow bound to be misinterpreted look i think
+the materialist reason to deny free will is not valid because the materialist reason is
+um your consciousness is a sort of epiphenomenon of brain activity therefore you're not free to choose
+because what is actually choosing are the mechanical processes of your neurons and you just register that in
+consciousness as a choice but it was never free because it has been determined by the laws of physics even though
+the laws of physics are not really deterministic at the bottom level we know that now they're only statistically deterministic
+so that reason i think is is false because i don't think the neurons cause your
+consciousness i think the neurons are what certain conscious processes look like even conscious processes that you
+cannot access through introspection because they exceed the boundaries of metacognition and we would call them unconscious
+they're not they're not unconscious phenomenally they're phenomenally conscious is just that you you can't re-represent them
+cognitively to tell yourself you're having those experiences so all of that appears to observation from
+across a dissociative boundary as what we call neurons firing so that reason for free
+will i think we can forget about and it's in that sense that i say there is free will but if you press me i would tell you
+libertarian free will is an incoherent concept it doesn't mean anything because semantically speaking there are
+only two options it's either total randomness or it's determinism a choice has to be determined by
+something otherwise it's totally random but nobody has the intuition of free will associated with randomness
+they say well no i made the choice it was not random i made it so i'm free to make it so what they mean
+is when a choice is determined by that which they identify with and they don't identify with their
+neurons so in that sense i think there is free will at the level of
+the universal field of subjectivity the universal mind if you want to call it cosmic consciousness if you want to call
+it that way why because there is no external agency the universal mind is the sum total of
+everything so whatever happens it's by definition it's freewheeled choice because it's not imposed from the
+outside it's a product of what it is and there is only it so it's free
+in that way but it's not free in the sense that whatever happens in the universe is determined
+by what the universe is the universe cannot abstract from itself it cannot choose to be something that it
+isn't its inherent potentials it's its inherent being is what determines the choices are they
+free they are free at that level because they are determined by the universe and there is nothing beyond the universe but they are not
+free in the sense that it's not libertarian free will it's not random it
+is determined and then now going back again to our level are we free in that sense and i would
+say well i would say our free will is very very limited because
+most of what determines our choices are not related to the executive ego
+um you don't really choose the person you fall in love with sort of comes from deep inside the
+so-called unconscious mind that exceeds the the field of metacognitive introspection
+dissociated even parts of of our own minds um we don't use our thoughts we don't choose our emotions this stuff happens
+to us maybe you can choose a mortgage package or the best route to work but i i
+i like to see the i think i like to imagine the ego as a tiny little road boat in the middle of the atlantic during the
+biggest storm on record and the guy rowing thinks it's going the direction he's trying to go no no no the
+direction is determined by this impersonal forces in us mental not
+material because i think matter is just what these forces look like from a certain perspective they are essentially mental but they are
+determined by mental dynamics that we don't really identify with as jopenhauer said
+you may be free to act according to your will but you can't will what you will so in
+that sense you don't have free will literally your will is not free you may be free to act
+according to it but you are not free to will otherwise we would all be extraordinarily happy even the guy
+locked up in solitary confinement he would will that what he really wants
+is to be in solitary confinement for 30 years and he would be the happiest person on earth on earth we don't choose what we will in
+that sense the will is not free it rises from parts of the mind that we don't identify with
+so there is no free will in that sense but there is free will at the universal level i think and there is free will in
+the sense that our choices are not determined by a prior ontologically primary material substrate
+our choices are made by my mental processes but not the mental processes we are ordinarily
+metacognitive of very interesting see maybe it's too complicated no no i
+i'm following it so much of this depends on your starting point like like i end up
+concluding about my my debates with deepak you know he's starting he has a different worldview starting
+point than i do and so we end up diverging mainly because we started at different places and i i like to cite this study uh done
+in 2009 of professional philosophers and philosophy graduate students this phil papers survey
+that i'm sure you're familiar with where they they surveyed all you know 3 600 philosophers on
+on the different positions so just a few for example like the one on free will would they ask
+compatibilism libertarianism or no free will and you know 59 said compatibilism 14.9 said other
+13.7 said libertarianism and 12.2 said no free will which i guess would be
+the determinist position and you know i bring up these you know like uh some of the other ones physic
+mind physicalism or non-physicalism you know 56 physicalism 27 non-physicalism
+16 and a half percent other you know you don't see things like that in science because you know in science at some
+point we kind of converge to you know at theory of evolution you know 99.9 it's true you know 0.01 that it's not
+true something like that climate change vaccines whatever and at some point we we converge to some
+conclusion where there's a consensus in the community of scientists that study this problem this is the probable answer the rest of
+them are probably not true but with philosophy it feels different to me i'm not a philosopher so from an
+outside i think why is this different why are you getting these splits you know 50 49 you know it's like politics and but
+of course it's not politics exactly but but it depends on where your starting point is
+you're going to end up at different positions and you guys are never going to reach like well 99 of philosophers say
+determinism is true or physicalism is correct or idealism is the right view that's never going to happen because of
+these different starting point world views
+i think you you hitting an air in the head it's it's the biggest problem in philosophy today that every philosopher can stick to his pet
+views or pet theories ad infinitum because in philosophy
+experiments are cannot necessarily settle the questions and in science they
+get very close to settling the question not always i mean we may think that you know when newton came around
+the french laughed for 50 years uh when with this idea that there is an invisible force that acts
+instantaneously at the distance between bodies and holds them together it's like mystic and the french loft for 50 years
+before experiments started telling them hey oh wait a moment there has to be something to this but
+then einstein came around and there was no such magical force operating at the distance the reality is completely different it's
+just that the fabric of space-time can bend and twist quite magical in its own way but
+debunked another type of magic so experiments don't really settle
+questions of being that's what i'm trying to say experiments allow you to predict nature's behavior
+but they don't allow you to pin down what nature is and this is a very important distinction that
+lots of scientists fail to make they think science can settle questions of being
+but it doesn't science is a set of convenient fictions that allow you
+to think about nature in a useful way so as to make proper predictions
+um subatomic particles and quantum fields and let's take the higgs boson we think it's a thing that has been
+proven to exist it's not nobody ever measured the higgs boson it decays before interrupt before it
+interacts with the measurement equipment what we see are is the trash the higgs
+boson leaves behind and we can sort of reconstruct the so-called higgs boson
+based on certain theoretical models and even that when you look at that did we see the higgs boson did we see
+the trash no we didn't even see the trash because it's just a histogram on a computer the whole thing is based on
+models so it's important that we be aware of that that science doesn't tell us what the
+world is it tells us how the world behaves but science does inform philosophy because if you have a philosophical
+position that contradicts the scientifically proven behavior of the world then your philosophical mod is
+just wrong and you have to abandon it because it's not nature that has to conform to philosophy it's philosophy that has to
+conform to nature so science does inform philosophy but it doesn't settle philosophical questions human thinking
+creativity is so vast that philosophers defending losing propositions
+can find extremely convoluted ways to keep it in the air i mean look at illusionism and
+illusionism philosophy of mind today the idea that consciousness doesn't exist it's an illusion it's the most self-defeating proposition
+conceivable to human thought because an illusion is already an instance of that which you're trying to say doesn't exist
+um and yet books are written about this grants are given there are entire
+communities uh working on this um so it's a problem for philosophy philosophy has not
+devised yet some kind of darwinian mechanism to sort of weed out
+the crap if you know what i mean um because you know mind minds first directive is to deceive
+itself so we do to be very honest with you my michael and i'm not saying this to put it in your face or anything
+i think physicalism is like the most untenable option on the table today and it's still 56
+it's still the majority of people i mean physicalism has been debunked i think by straightforward
+reasoning has been debunked by foundations of physics physicalism depends on physical realism and
+it's not true we know now after 40 years of repeated experimentations that it's not true
+unless you believe in the fairy tale of gazillions of universes popping into existence every fraction of a second
+for which we have zero empirical evidence even the neuroscience of consciousness
+is now i mean what people are putting forward now to hold on to the physicalist model of the psychedelic state
+is embarrassing it's literally embarrassing i mean the the the entropic brain model that tries to
+account for the psychedelic experience with an increase of 0.005 in a scale of
+0 to 100 in brain noise is preposterous
+i mean i would be i would never put something like that forward it's too embarrassing but it gets published in in in
+scientific reports nature um yeah but here bernardo so yeah how do we say how do you settle
+that well i mean it's one thing for you to say well shermer if you if you just understood idealism you'd see that realism or
+physicalism is baloney you could say that about me because i'm not a philosopher but
+you know presumably these 3 600 professional philosophers half of which say yeah i think the phys
+you can't say they don't understand the arguments surely they understand the argument oh they they don't no no they don't you'd
+be surprised you'd be surprised how what percentages of the philosophy community that has no
+darn clue what idealism is okay i mean some harry's brandishes a a
+bachelor's degree of philosophy around from stanford and he gave an interview the other day to that russian guy from the mit i
+forgot his name he has a very famous very popular podcast uh friedman yeah alex friedman yeah yeah
+yeah yeah and when you see how sam harris tried to argue against idealism we
+realized that he was not arguing against idealism at all he built like a series of straw men
+and burned them down now idealism is a foundational topic in philosophy it's philosophy one on one
+you know i i had it in a philosophy course when i was doing computer engineering you have to to know at least what it is
+you don't need to agree but you have you don't need to understand the subtleties but you need to know at least what the foundational claims are i
+didn't i didn't see this interview maybe he was just using the the wrong words but what was the concept he was trying to convey
+that you disagree with leaving out the words idealism or whatever
+so the straw man was the following idealists say that reality is only in their own minds and that there is no external world
+objective world outside our individual minds that's not all what idealism is just
+like materialism idealists grant that there is a world beyond our individual mind
+it's just that the categoric categorical basis of that world is mentation it's
+the type of existence of this external world this meditation in other words transpersonal augmentation
+that when observed looks like what we call the physical world now no idealist denies that there is a
+objective world we all share the the dispute is solely about what physicality is
+is physicality the essence or physique or is physicality just the appearance and idealists would say physicality is
+the appearance is what shows up on the dashboard of dials of our sense organs it's not the world as it is in itself
+it's just how it presents itself to observation now some areas attacked idealism as if
+all idealists in history were saying that there is no objective outside world not even
+berkeley the the the the subjective idealist perhaps the only one in history
+not even him denied that there is something beyond our personal minds so he would be surprised michael how few
+people actually understand idealism in general and analytic idealism in particular
+because all the the critiques of or criticisms of analytic idealism entail some form of straw manning
+and and i have seen this over the last past 15 years it's very difficult to get that intuition
+across so maybe this survey i keep citing i should back off on that maybe a lot of philosophers haven't
+really thought through a lot of these issues i did think your um yeah your comments on twitter about sam were pretty
+strongly worded um i think unnecessarily so maybe this is your passion because this is your
+thing sam seems to piss off a lot of people on a lot of subjects i don't know why i know him pretty well and he's a good guy
+and you know he's just trying to figure things out like the rest of us but maybe because of his prominence he's an easy target i
+don't know what it is but you know easy on the language i would say maybe maybe social media is not the best
+platform for expressing skepticism uh in any case that's just my thoughts on that well you know
+people don't spare their words when it comes to me so and neither did sam spare his words when
+he attacked even alexander back in 2012. so i i don't feel like i need to not
+reciprocate that tone and style as i said maybe so maybe twitter is not the best place to
+hash out philosophical on scientific ideas all right let's wrap it up bernardo what's up just tell us what's on your
+what's your next big problem you're working on or or project you're you're working on
+oh um i'm having a foundation now essentia foundation which is an official dutch charity and
+it's an educational foundation so we produce a lot of educational material either about
+idealism or related to idealism in some way and we provide it for free and it's funded by
+people who think it's very important that um that uh that our culture at least understands what idealism is
+claiming you you don't need to agree but at least understand before you make up your mind about it being nonsense or otherwise
+so that's what the foundation tries to do and this is this is the big thing in my life now it has become a lot less
+about me now about my own books i've published now 10 books number 10 is coming out in
+august i think science ideated but the focus now is to sort of
+create some sort of momentum um not about my work but about this
+this old very old line of thinking in in in the human species i mean idealism is
+at least three and a half thousand years old it has started arguably uh in the hindus valley you
+know at the very birth of of philosophical and religious thought uh in the axial age as they call it
+although there is no single age that is the actual age so we think it's time to sort
+of bring this to prominence again again in the west because it may be the only way
+we have to make plausible rational sense of results coming out of foundations of physics and
+the neuroscience of consciousness and it may help us have a better understanding of what we are what nature is
+and and and how to have a meaningful productive life i was going to read this to you at the
+beginning of the podcast but now i'll read it to you at the end from ludwig wittgenstein in his 1921 trick
+tracticus logico philosophicas the real question is thank you thank you
+the real the real question of life after death isn't whether or not it exists but even if it does what
+problem this really solves so how would you answer that question for idealism you know whether you're right
+or not let's say you are what problem does it solve why should we care
+i'm not too worried about life after death because you know it to either not come
+or come and there's nothing i can do to change uh um what's going to happen i'm more worried
+about them now about how we live our lives um and i think we have given
+undue rational substantiation to the idea that life has no meaning
+and no purpose i think this is a rushed conclusion if it is true
+then so be it we have to bite the bullet my commitment is to truth not to a good feeling but i don't think
+we have good reasons at all to think it is true i think it reflects a a rush
+to judgment a kind of arrogant um ability
+to decree something about nature that that we just do not know and the
+part of the motivation for our thinking that there is no meaning is it's the materialist or physicalist
+perspective that the world is not the image of something else it's not pointing at anything
+it doesn't have a meaning in the semantic sense that it that it it's portraying something else behind
+it from from where we look at it according to physicalism the world is what it is
+it is its own meaning there is nothing behind it it's not suggesting anything it's not pointing at anything
+it's just what is and i don't think that's true i don't think physicality is the bottom layer of reality if
+you if you think it is you run into all kinds of logical problems and empirical problems i think physicality is the appearance of
+what is underneath and in that sense life in the world has literal semantic meaning again because it's valid for you
+to ask what does this all mean it it is now a rationally substantiated question to ask
+it's a valid question and to ask if you're suffering you may ask
+what this what does this all mean it's valid to say that yeah this is what i i take from deepak's worldview is
+his answer to this question would be something like the the problem it solves is is suffering or being caught up in the
+now the you know the the day-to-day trivialities the the thought flooding about things that
+your boss said or your spouse said or the things you're worried about just drop all that you know this is this
+uh um eckhart tolle's you know the power of now you know the past has
+already happened you can't change it the future hasn't happened yet so this is it right now that's it that's
+all we have and uh you know i remember um leonard maladnow and i the physicist went
+to a uh an appearance with deepak and eckhart tolle together i mean this was legendary at the
+shrine auditorium in los angeles like 3 000 people each paid a couple hundred bucks a ticket it was astonishing
+and these are pretty well off people i mean there were a lot of teslas and lexus is parked in the parking lot right so you know a lot of hollywood people
+there and it's like all right what are they getting out of this and deepak and eckhart were you know just walking around like in socks
+and you know casual t-shirt and jeans and just talking about you know the power of now
+essentially and you know just drop all this materialist stuff and that i gather to be the buddhist
+perspective you know that that a lot of our suffering comes from the being cut up in the ego which is buried
+in this materialist worldview in which we look for purpose in you know what happened
+yesterday or tomorrow and we're missing the bigger picture yeah i i
+i may defer slightly from that well maybe not even slightly but i i don't think that we need to
+eradicate suffering i think it would be from a natural perspective counterproductive and i'll tell you why all the good ideas i have
+had in my life originated in moments of suffering if i'm not suffering i'm not thinking
+deeply about things i i'm not being stopped by nature and saying okay what now and then you start
+thinking if you're having fun all the time you sort of glide through nature
+without really introspecting and thinking about the issues so i don't think suffering is the enemy
+i think suffering is the engine of insight i think the enemy is nihilism
+is when you think that you are suffering is for nothing that's the problem um it's this idea
+that suffering has no meaning it's for nothing you're suffering for nothing i think that is the enemy i think we have to sort of
+learn to embrace suffering but realizing that it has meaning that this whole game of nature and life is a mental game
+and in any mental game the goal is always some form of insight because it can't be
+anything else there's nothing else for it to be but insight as goal is powerful it's not
+nihilistic at all so yeah i'm okay with suffering i think suffering is an intrinsic part of
+nature but what i'm not okay is with meaninglessness it's nihilism that i
+think is i've been reading the literature on the difference between happiness and meaningfulness that is the psych literature people that study this
+and that there's a difference that is people that uh the goal of life to lead a rich life
+is not to eliminate all suffering because that's where a lot of meaningfulness and purposefulness comes
+in it's nice to be happy you know maybe go out with friends with drinks
+for drinks and dinner and that's fun but you know it's a fleeting experience but um to let's say
+be a caretaker for an alien parent or spouse or you know some kind of thing that's not
+fun i've done it twice for two of my four parents two step parents and it's not fun at all i wasn't happy
+doing it but it was a meaningful purposeful thing made me feel as better as a person and that kind of
+suffering you know kind of builds character makes you a stronger person and and so forth and
+jung said if you have meaning you can you can bear anything it's written in his biography i mean you
+know we had these different wheels too in the course of history you had a the freudian will to pleasure and you have
+the nietzschean will to power and then you have viktor frankl's will to meaning and i think that
+takes that takes the cake it wins the super bowl there's nothing beyond that yeah yeah and you can say that if you
+were at auschwitz because it doesn't get much worse than that indeed indeed
+yeah that's a guy who found meaning while locked up in a constant concentration camp in auschwitz and
+being treated as a cockroach i mean if you can't find meaning in that there is meaning
+perhaps i would even go as far as especially in such situations where you find
+meaning you find a lot more meaning than i don't know drinking a beer at the beach so
+that's why i said i think suffering is not the enemy suffering is a tool uh it's nihilism that is the enemy it's
+an unnecessary assumption right so the kinds of suffering you experience in a
+concentration camp where they make you dig a hole and move the dirt over there and then back to the hole and then back there just there's no
+meaning it's just the point is suffering not to get to some higher goal
+yeah yeah it's the the um the myth of uh sisyphus right you roll the rock up the
+hill and you let the rock down you roll it up that's nihilism when you think that
+you're suffering for nothing that's worse than suffering all right bernardo well now
+well past two hours this was one of the more interesting conversations i've had you're a super interesting guy
+thanks for coming on and joining us yeah it's been great
